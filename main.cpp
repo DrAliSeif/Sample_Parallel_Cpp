@@ -1,3 +1,9 @@
+//code for ubuntu terminal
+//g++ main.cpp -fopenmp
+//./a.out
+
+
+
 #include <iostream>
 #include <omp.h>
 #include <stdio.h>
